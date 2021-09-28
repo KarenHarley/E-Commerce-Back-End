@@ -1,6 +1,6 @@
 
 # E-Commerce Back-End
-This command-line application uses Insominia to test the different get,post,put,delete Routes. These 
+ This is the back end for an e-commerce site taht was made by  modifying starter code given. It works with Express.js API and Sequelize to interact with a MySQL database. Finally, this application uses Insominia to test the different get,post,put,and delete Routes.  
 
 
 
@@ -24,11 +24,11 @@ This command-line application uses Insominia to test the different get,post,put,
   ```zsh
 npm start
   ```
-  After invoking the application you will be with prompted with seveal Options. See Below.
+ See an example of a get route to see all of the tags.
 
 
 <p align="center">
-  <img src="./pics/options.png" alt="options">
+  <img src="./pics/tags.png" alt="options">
 </p>
   
 
