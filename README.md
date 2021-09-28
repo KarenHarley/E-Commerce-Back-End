@@ -1,10 +1,7 @@
 
 # E-Commerce Back-End
-This command-line application uses Insominia to test the different Routes. 
-1. GET
-2. POST
-3. PUT
-4. DELETE
+This command-line application uses Insominia to test the different get,post,put,delete Routes. These 
+
 
 
    ## Table of Contents 
