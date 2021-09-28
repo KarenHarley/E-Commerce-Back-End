@@ -1,6 +1,11 @@
 
 # E-Commerce Back-End
- This is the back end for an e-commerce site taht was made by  modifying starter code given. It works with Express.js API and Sequelize to interact with a MySQL database. Finally, this application uses Insominia to test the different get,post,put,and delete Routes.  
+ This is the back end for an e-commerce site taht was made by  modifying starter code given. It works with Express.js API and Sequelize to interact with a MySQL database. Finally, this application uses Insominia to test the different routes found in this application. You will be able to find the following routes for Category, Tag, Product:
+ 
+ 1. GET see all or just 1 object (row).
+ 2. POST create a new row in the database.
+ 3. PUT update selected row with its id. 
+ 4. DELETE remove a selected row from the database using its id.
 
 
 
