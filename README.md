@@ -1,4 +1,4 @@
-
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 # E-Commerce Back-End
  This is the back end for an e-commerce site that was made by modifying starter code given. It works with Express.js API and Sequelize to interact with a MySQL database. In addition, this application uses Insominia to test the different routes found in this application. You will be able to find the following routes for Category, Tag, Product:
  
