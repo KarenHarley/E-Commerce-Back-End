@@ -1,13 +1,11 @@
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 # E-Commerce Back-End
- This is the back end for an e-commerce site that was made by modifying starter code given. It works with Express.js API and Sequelize to interact with a MySQL database. In addition, this application uses Insominia to test the different routes found in this application. You will be able to find the following routes for Category, Tag, Product:
- 
- 1. GET see all or just 1 object (row).
- 2. POST create a new row in the database.
- 3. PUT update selected row with its id. 
- 4. DELETE remove a selected row from the database using its id.
+This is the back-end implementation for an e-commerce platform, developed by modifying provided starter code. It utilizes Express.js for API development and Sequelize to interact with a MySQL database. Insomnia is used to test the various API routes within the application. The following routes are available for Category, Tag, and Product entities:
 
-
+	1.	GET: Retrieve all entries or a specific row by its ID.
+	2.	POST: Create a new row in the database.
+	3.	PUT: Update an existing row using its ID.
+	4.	DELETE: Remove a row from the database by its ID.
 
    ## Table of Contents 
 
