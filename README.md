@@ -14,9 +14,6 @@ This is the back-end implementation for an e-commerce platform, developed by mod
   - [License](#license)
   - [How to Contribute](#contribute)
   - [Questions](#questions)
-
-<br/>
-<br/>
   
   ## Installation
   ```zsh
@@ -33,7 +30,6 @@ npm start
 <p align="center">
   <img src="./pics/tags.png" alt="options">
 </p>
-  
 
   ## Contribute
   If you would like to contribute please contact me.
