@@ -34,8 +34,8 @@ npm start
   ## Contribute
   If you would like to contribute please contact me.
   ## Walkthough
- https://watch.screencastify.com/v/2y4fDeNJd0XVhdtBKAP1
- https://watch.screencastify.com/v/epAs1eeVyxPtxOkNeq30
+ - Part 1: `https://watch.screencastify.com/v/2y4fDeNJd0XVhdtBKAP1`
+ - Part 2: `https://watch.screencastify.com/v/epAs1eeVyxPtxOkNeq30`
   ## Questions
   To reach me please contact me in the email address below.
 
