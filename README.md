@@ -31,6 +31,8 @@ npm start
   <img src="./pics/tags.png" alt="options">
 </p>
 
+## License
+ The license used for this project: MIT
   ## Contribute
   If you would like to contribute please contact me.
   ## Walkthough
