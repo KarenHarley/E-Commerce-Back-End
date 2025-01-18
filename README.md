@@ -13,6 +13,7 @@ This is the back-end implementation for an e-commerce platform, developed by mod
   - [Usage](#usage)
   - [License](#license)
   - [How to Contribute](#contribute)
+  - [Walkthough](#walkthough)
   - [Questions](#questions)
   
   ## Installation
